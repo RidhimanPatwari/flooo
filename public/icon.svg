@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="flooo icon">
+  <rect width="512" height="512" rx="96" fill="#ffffff"/>
+  <path d="M88 292c46-76 107-116 181-121 72-5 121 25 155 88" fill="none" stroke="#4F46E5" stroke-width="34" stroke-linecap="round"/>
+  <path d="M87 346c42-45 91-67 146-67 61 0 107 21 151 67" fill="none" stroke="#06B6D4" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="254" cy="209" r="28" fill="#111827"/>
+</svg>
